@@ -1,0 +1,541 @@
+﻿Item,Count,Category,Type
+JavaScript,37492,Language,Used
+HTML/CSS,31816,Language,Used
+Python,30719,Language,Used
+SQL,30682,Language,Used
+TypeScript,23150,Language,Used
+Bash/Shell (all shells),20412,Language,Used
+Java,18239,Language,Used
+C#,16318,Language,Used
+C++,13827,Language,Used
+C,12184,Language,Used
+PHP,10951,Language,Used
+PowerShell,8328,Language,Used
+Go,8103,Language,Used
+Rust,7559,Language,Used
+Kotlin,5665,Language,Used
+Lua,3728,Language,Used
+Dart,3594,Language,Used
+Assembly,3233,Language,Used
+Ruby,3147,Language,Used
+Swift,2829,Language,Used
+R,2595,Language,Used
+Visual Basic (.Net),2499,Language,Used
+MATLAB,2378,Language,Used
+VBA,2248,Language,Used
+Groovy,2004,Language,Used
+Scala,1547,Language,Used
+Perl,1482,Language,Used
+GDScript,1402,Language,Used
+Objective-C,1283,Language,Used
+Elixir,1243,Language,Used
+Haskell,1193,Language,Used
+Delphi,1073,Language,Used
+MicroPython,942,Language,Used
+Lisp,889,Language,Used
+Clojure,737,Language,Used
+Julia,684,Language,Used
+Zig,667,Language,Used
+Fortran,665,Language,Used
+Solidity,644,Language,Used
+Ada,542,Language,Used
+Erlang,522,Language,Used
+F#,512,Language,Used
+Apex,502,Language,Used
+Prolog,486,Language,Used
+OCaml,458,Language,Used
+Cobol,413,Language,Used
+Crystal,253,Language,Used
+Nim,210,Language,Used
+Zephyr,184,Language,Used
+Python,25047,Language,Wanted
+JavaScript,23774,Language,Wanted
+SQL,22400,Language,Wanted
+HTML/CSS,20721,Language,Wanted
+TypeScript,20239,Language,Wanted
+Rust,17232,Language,Wanted
+Go,13837,Language,Wanted
+Bash/Shell (all shells),13744,Language,Wanted
+C#,12921,Language,Wanted
+C++,10873,Language,Wanted
+Java,10668,Language,Wanted
+C,8275,Language,Wanted
+Kotlin,7379,Language,Wanted
+PHP,5745,Language,Wanted
+PowerShell,4287,Language,Wanted
+Swift,3877,Language,Wanted
+Dart,3709,Language,Wanted
+Zig,3688,Language,Wanted
+Lua,3322,Language,Wanted
+Assembly,3007,Language,Wanted
+Elixir,2895,Language,Wanted
+Ruby,2774,Language,Wanted
+Haskell,2221,Language,Wanted
+R,2177,Language,Wanted
+Scala,1790,Language,Wanted
+GDScript,1667,Language,Wanted
+Clojure,1331,Language,Wanted
+F#,1272,Language,Wanted
+Julia,1263,Language,Wanted
+Lisp,1255,Language,Wanted
+Erlang,1137,Language,Wanted
+OCaml,1080,Language,Wanted
+MicroPython,1039,Language,Wanted
+Visual Basic (.Net),962,Language,Wanted
+Solidity,957,Language,Wanted
+MATLAB,945,Language,Wanted
+Groovy,849,Language,Wanted
+Perl,794,Language,Wanted
+VBA,723,Language,Wanted
+Objective-C,686,Language,Wanted
+Delphi,594,Language,Wanted
+Ada,558,Language,Wanted
+Nim,499,Language,Wanted
+Fortran,487,Language,Wanted
+Crystal,407,Language,Wanted
+Cobol,399,Language,Wanted
+Prolog,396,Language,Wanted
+Apex,389,Language,Wanted
+Zephyr,248,Language,Wanted
+JavaScript,21869,Language,Admired
+Python,20774,Language,Admired
+SQL,20692,Language,Admired
+HTML/CSS,19851,Language,Admired
+TypeScript,16079,Language,Admired
+Bash/Shell (all shells),12776,Language,Admired
+C#,10458,Language,Admired
+Java,8687,Language,Admired
+C++,7339,Language,Admired
+Rust,6215,Language,Admired
+C,5774,Language,Admired
+Go,5485,Language,Admired
+PHP,4793,Language,Admired
+PowerShell,3603,Language,Admired
+Kotlin,3449,Language,Admired
+Dart,1978,Language,Admired
+Lua,1960,Language,Admired
+Swift,1792,Language,Admired
+Ruby,1576,Language,Admired
+Assembly,1409,Language,Admired
+R,1073,Language,Admired
+Elixir,955,Language,Admired
+GDScript,914,Language,Admired
+Scala,788,Language,Admired
+Haskell,634,Language,Admired
+Visual Basic (.Net),618,Language,Admired
+Groovy,611,Language,Admired
+VBA,559,Language,Admired
+MATLAB,516,Language,Admired
+Lisp,509,Language,Admired
+Clojure,504,Language,Admired
+Zig,492,Language,Admired
+Perl,486,Language,Admired
+MicroPython,458,Language,Admired
+Delphi,450,Language,Admired
+Julia,422,Language,Admired
+Objective-C,337,Language,Admired
+Solidity,332,Language,Admired
+Erlang,301,Language,Admired
+F#,272,Language,Admired
+OCaml,243,Language,Admired
+Ada,218,Language,Admired
+Apex,215,Language,Admired
+Fortran,189,Language,Admired
+Crystal,120,Language,Admired
+Prolog,114,Language,Admired
+Cobol,108,Language,Admired
+Nim,106,Language,Admired
+Zephyr,100,Language,Admired
+PostgreSQL,25536,Database,Used
+MySQL,21099,Database,Used
+SQLite,17365,Database,Used
+Microsoft SQL Server,13275,Database,Used
+MongoDB,13007,Database,Used
+Redis,10463,Database,Used
+MariaDB,8991,Database,Used
+Elasticsearch,6533,Database,Used
+Oracle,5273,Database,Used
+Dynamodb,4138,Database,Used
+Firebase Realtime Database,3018,Database,Used
+Cloud Firestore,2842,Database,Used
+BigQuery,2531,Database,Used
+Microsoft Access,2193,Database,Used
+Supabase,2078,Database,Used
+H2,2006,Database,Used
+Cosmos DB,1746,Database,Used
+Snowflake,1364,Database,Used
+InfluxDB,1338,Database,Used
+Cassandra,1268,Database,Used
+Databricks SQL,1003,Database,Used
+Neo4J,998,Database,Used
+IBM DB2,914,Database,Used
+Clickhouse,890,Database,Used
+Solr,766,Database,Used
+DuckDB,710,Database,Used
+Firebird,563,Database,Used
+Couch DB,534,Database,Used
+Cockroachdb,507,Database,Used
+Couchbase,353,Database,Used
+Presto,323,Database,Used
+Datomic,184,Database,Used
+EventStoreDB,162,Database,Used
+RavenDB,159,Database,Used
+TiDB,127,Database,Used
+PostgreSQL,24005,Database,Wanted
+SQLite,13489,Database,Wanted
+MySQL,12269,Database,Wanted
+MongoDB,10982,Database,Wanted
+Redis,10847,Database,Wanted
+Microsoft SQL Server,7905,Database,Wanted
+Elasticsearch,6246,Database,Wanted
+MariaDB,5947,Database,Wanted
+Dynamodb,3503,Database,Wanted
+Supabase,2930,Database,Wanted
+Oracle,2636,Database,Wanted
+BigQuery,2554,Database,Wanted
+Firebase Realtime Database,2536,Database,Wanted
+Cassandra,2399,Database,Wanted
+Cloud Firestore,2119,Database,Wanted
+Snowflake,1784,Database,Wanted
+Cosmos DB,1764,Database,Wanted
+Neo4J,1570,Database,Wanted
+DuckDB,1468,Database,Wanted
+Clickhouse,1328,Database,Wanted
+Databricks SQL,1218,Database,Wanted
+Cockroachdb,1157,Database,Wanted
+InfluxDB,1090,Database,Wanted
+H2,1040,Database,Wanted
+Microsoft Access,662,Database,Wanted
+Couch DB,620,Database,Wanted
+Solr,558,Database,Wanted
+Firebird,450,Database,Wanted
+IBM DB2,406,Database,Wanted
+Datomic,404,Database,Wanted
+Couchbase,385,Database,Wanted
+EventStoreDB,372,Database,Wanted
+Presto,319,Database,Wanted
+TiDB,255,Database,Wanted
+RavenDB,222,Database,Wanted
+PostgreSQL,19012,Database,Admired
+MySQL,11082,Database,Admired
+SQLite,10886,Database,Admired
+Microsoft SQL Server,7230,Database,Admired
+MongoDB,7211,Database,Admired
+Redis,7007,Database,Admired
+MariaDB,5020,Database,Admired
+Elasticsearch,3256,Database,Admired
+Dynamodb,2055,Database,Admired
+Oracle,1985,Database,Admired
+Cloud Firestore,1482,Database,Admired
+Firebase Realtime Database,1392,Database,Admired
+BigQuery,1286,Database,Admired
+Supabase,1254,Database,Admired
+Cosmos DB,876,Database,Admired
+H2,850,Database,Admired
+Snowflake,699,Database,Admired
+InfluxDB,601,Database,Admired
+Clickhouse,520,Database,Admired
+Microsoft Access,511,Database,Admired
+Databricks SQL,493,Database,Admired
+DuckDB,491,Database,Admired
+Neo4J,463,Database,Admired
+Cassandra,461,Database,Admired
+Solr,320,Database,Admired
+IBM DB2,246,Database,Admired
+Cockroachdb,233,Database,Admired
+Firebird,223,Database,Admired
+Presto,178,Database,Admired
+Couch DB,168,Database,Admired
+Datomic,130,Database,Admired
+Couchbase,113,Database,Admired
+EventStoreDB,89,Database,Admired
+RavenDB,66,Database,Admired
+TiDB,62,Database,Admired
+Amazon Web Services (AWS),22191,Platform,Used
+Microsoft Azure,12850,Platform,Used
+Google Cloud,11605,Platform,Used
+Cloudflare,6974,Platform,Used
+Firebase,6443,Platform,Used
+Vercel,5491,Platform,Used
+Digital Ocean,5409,Platform,Used
+Heroku,3798,Platform,Used
+Netlify,3238,Platform,Used
+VMware,3043,Platform,Used
+Hetzner,2301,Platform,Used
+Supabase,1767,Platform,Used
+"Linode, now Akamai",1425,Platform,Used
+OVH,1397,Platform,Used
+Managed Hosting,1386,Platform,Used
+Oracle Cloud Infrastructure (OCI),1332,Platform,Used
+Render,1305,Platform,Used
+Fly.io,1189,Platform,Used
+OpenShift,1120,Platform,Used
+Databricks,918,Platform,Used
+PythonAnywhere,892,Platform,Used
+Vultr,798,Platform,Used
+OpenStack,716,Platform,Used
+Alibaba Cloud,548,Platform,Used
+IBM Cloud Or Watson,506,Platform,Used
+Scaleway,396,Platform,Used
+Colocation,307,Platform,Used
+Amazon Web Services (AWS),18040,Platform,Wanted
+Microsoft Azure,10304,Platform,Wanted
+Google Cloud,9772,Platform,Wanted
+Cloudflare,6881,Platform,Wanted
+Firebase,4952,Platform,Wanted
+Vercel,4614,Platform,Wanted
+Digital Ocean,4507,Platform,Wanted
+Hetzner,2460,Platform,Wanted
+Supabase,2287,Platform,Wanted
+Netlify,2217,Platform,Wanted
+Fly.io,1686,Platform,Wanted
+Heroku,1666,Platform,Wanted
+VMware,1606,Platform,Wanted
+"Linode, now Akamai",1470,Platform,Wanted
+Oracle Cloud Infrastructure (OCI),1168,Platform,Wanted
+Databricks,1152,Platform,Wanted
+Managed Hosting,1070,Platform,Wanted
+OVH,1038,Platform,Wanted
+OpenShift,1012,Platform,Wanted
+Render,940,Platform,Wanted
+OpenStack,853,Platform,Wanted
+PythonAnywhere,786,Platform,Wanted
+Vultr,644,Platform,Wanted
+IBM Cloud Or Watson,528,Platform,Wanted
+Alibaba Cloud,525,Platform,Wanted
+Scaleway,369,Platform,Wanted
+Colocation,344,Platform,Wanted
+Amazon Web Services (AWS),14048,Platform,Admired
+Microsoft Azure,7693,Platform,Admired
+Google Cloud,6452,Platform,Admired
+Cloudflare,4757,Platform,Admired
+Firebase,3533,Platform,Admired
+Vercel,3264,Platform,Admired
+Digital Ocean,3060,Platform,Admired
+Hetzner,1716,Platform,Admired
+Netlify,1599,Platform,Admired
+VMware,1191,Platform,Admired
+Supabase,1109,Platform,Admired
+Heroku,979,Platform,Admired
+Managed Hosting,868,Platform,Admired
+"Linode, now Akamai",786,Platform,Admired
+OVH,770,Platform,Admired
+Oracle Cloud Infrastructure (OCI),750,Platform,Admired
+Fly.io,733,Platform,Admired
+Render,655,Platform,Admired
+OpenShift,583,Platform,Admired
+Databricks,504,Platform,Admired
+Vultr,408,Platform,Admired
+PythonAnywhere,371,Platform,Admired
+OpenStack,351,Platform,Admired
+Alibaba Cloud,224,Platform,Admired
+Scaleway,220,Platform,Admired
+IBM Cloud Or Watson,204,Platform,Admired
+Colocation,192,Platform,Admired
+Docker,29219,Tools,Used
+npm,26866,Tools,Used
+Pip,17561,Tools,Used
+Homebrew,12081,Tools,Used
+Make,11259,Tools,Used
+Vite,10804,Tools,Used
+Kubernetes,10503,Tools,Used
+Yarn,10209,Tools,Used
+Webpack,9970,Tools,Used
+NuGet,8703,Tools,Used
+Maven (build tool),8435,Tools,Used
+Visual Studio Solution,8315,Tools,Used
+Gradle,8310,Tools,Used
+MSBuild,5973,Tools,Used
+Terraform,5754,Tools,Used
+APT,5669,Tools,Used
+pnpm,4836,Tools,Used
+Composer,4767,Tools,Used
+Chocolatey,4746,Tools,Used
+Ansible,4272,Tools,Used
+Pacman,3702,Tools,Used
+Unity 3D,3179,Tools,Used
+Podman,2682,Tools,Used
+Godot,2363,Tools,Used
+Ninja,2212,Tools,Used
+Bun,2050,Tools,Used
+Google Test,1678,Tools,Used
+Unreal Engine,1639,Tools,Used
+Ant,1539,Tools,Used
+Nix,1450,Tools,Used
+Dagger,635,Tools,Used
+Puppet,629,Tools,Used
+Pulumi,495,Tools,Used
+Chef,399,Tools,Used
+Docker,26262,Tools,Wanted
+npm,16714,Tools,Wanted
+Kubernetes,13197,Tools,Wanted
+Pip,11393,Tools,Wanted
+Vite,9980,Tools,Wanted
+Homebrew,8798,Tools,Wanted
+Make,7377,Tools,Wanted
+Terraform,6195,Tools,Wanted
+NuGet,6178,Tools,Wanted
+Visual Studio Solution,6064,Tools,Wanted
+Yarn,5955,Tools,Wanted
+Gradle,5259,Tools,Wanted
+Maven (build tool),5069,Tools,Wanted
+Webpack,4527,Tools,Wanted
+pnpm,4444,Tools,Wanted
+APT,4134,Tools,Wanted
+Ansible,4131,Tools,Wanted
+Bun,3850,Tools,Wanted
+MSBuild,3845,Tools,Wanted
+Godot,3515,Tools,Wanted
+Podman,3222,Tools,Wanted
+Composer,3209,Tools,Wanted
+Pacman,2990,Tools,Wanted
+Unreal Engine,2899,Tools,Wanted
+Unity 3D,2716,Tools,Wanted
+Chocolatey,2593,Tools,Wanted
+Nix,2275,Tools,Wanted
+Ninja,1729,Tools,Wanted
+Google Test,1492,Tools,Wanted
+Pulumi,925,Tools,Wanted
+Ant,605,Tools,Wanted
+Dagger,599,Tools,Wanted
+Puppet,524,Tools,Wanted
+Chef,375,Tools,Wanted
+Docker,22644,Tools,Admired
+npm,16068,Tools,Admired
+Pip,10914,Tools,Admired
+Homebrew,8436,Tools,Admired
+Vite,8281,Tools,Admired
+Kubernetes,7608,Tools,Admired
+Make,6780,Tools,Admired
+NuGet,5887,Tools,Admired
+Visual Studio Solution,5759,Tools,Admired
+Yarn,5209,Tools,Admired
+Maven (build tool),4619,Tools,Admired
+Gradle,4377,Tools,Admired
+APT,3979,Tools,Admired
+Webpack,3892,Tools,Admired
+Terraform,3790,Tools,Admired
+MSBuild,3668,Tools,Admired
+pnpm,3293,Tools,Admired
+Composer,2939,Tools,Admired
+Pacman,2696,Tools,Admired
+Ansible,2522,Tools,Admired
+Chocolatey,2179,Tools,Admired
+Podman,1800,Tools,Admired
+Godot,1741,Tools,Admired
+Bun,1560,Tools,Admired
+Unity 3D,1462,Tools,Admired
+Ninja,1398,Tools,Admired
+Nix,1050,Tools,Admired
+Google Test,1049,Tools,Admired
+Unreal Engine,884,Tools,Admired
+Ant,476,Tools,Admired
+Dagger,368,Tools,Admired
+Pulumi,314,Tools,Admired
+Puppet,224,Tools,Admired
+Chef,112,Tools,Admired
+Visual Studio Code,42751,CollabTools,Used
+Visual Studio,17021,CollabTools,Used
+IntelliJ IDEA,15555,CollabTools,Used
+Notepad++,13874,CollabTools,Used
+Vim,12523,CollabTools,Used
+Android Studio,9379,CollabTools,Used
+PyCharm,8781,CollabTools,Used
+Jupyter Notebook/JupyterLab,7432,CollabTools,Used
+Neovim,7239,CollabTools,Used
+Sublime Text,6332,CollabTools,Used
+Eclipse,5447,CollabTools,Used
+Xcode,5411,CollabTools,Used
+Nano,5364,CollabTools,Used
+WebStorm,4360,CollabTools,Used
+PhpStorm,3428,CollabTools,Used
+Rider,3317,CollabTools,Used
+DataGrip,2948,CollabTools,Used
+VSCodium,2807,CollabTools,Used
+IPython,2732,CollabTools,Used
+CLion,2695,CollabTools,Used
+Emacs,2446,CollabTools,Used
+Goland,1893,CollabTools,Used
+Netbeans,1671,CollabTools,Used
+RStudio,1613,CollabTools,Used
+Qt Creator,1546,CollabTools,Used
+Code::Blocks,1247,CollabTools,Used
+Kate,1070,CollabTools,Used
+Fleet,981,CollabTools,Used
+Helix,979,CollabTools,Used
+Spyder,828,CollabTools,Used
+RubyMine,655,CollabTools,Used
+Geany,605,CollabTools,Used
+"Rad Studio (Delphi, C++ Builder)",596,CollabTools,Used
+BBEdit,506,CollabTools,Used
+Spacemacs,204,CollabTools,Used
+Visual Studio Code,33965,CollabTools,Wanted
+IntelliJ IDEA,11721,CollabTools,Wanted
+Visual Studio,11091,CollabTools,Wanted
+Vim,9631,CollabTools,Wanted
+Notepad++,8885,CollabTools,Wanted
+Neovim,8020,CollabTools,Wanted
+PyCharm,6492,CollabTools,Wanted
+Android Studio,6131,CollabTools,Wanted
+Jupyter Notebook/JupyterLab,5604,CollabTools,Wanted
+Xcode,3914,CollabTools,Wanted
+Sublime Text,3718,CollabTools,Wanted
+WebStorm,3600,CollabTools,Wanted
+Nano,3346,CollabTools,Wanted
+Rider,3176,CollabTools,Wanted
+VSCodium,2565,CollabTools,Wanted
+DataGrip,2490,CollabTools,Wanted
+PhpStorm,2484,CollabTools,Wanted
+Emacs,2144,CollabTools,Wanted
+IPython,2142,CollabTools,Wanted
+CLion,2064,CollabTools,Wanted
+Goland,1958,CollabTools,Wanted
+Eclipse,1921,CollabTools,Wanted
+Helix,1077,CollabTools,Wanted
+RStudio,1018,CollabTools,Wanted
+Qt Creator,965,CollabTools,Wanted
+Fleet,957,CollabTools,Wanted
+Kate,777,CollabTools,Wanted
+RubyMine,604,CollabTools,Wanted
+Netbeans,538,CollabTools,Wanted
+Spyder,491,CollabTools,Wanted
+"Rad Studio (Delphi, C++ Builder)",437,CollabTools,Wanted
+Code::Blocks,394,CollabTools,Wanted
+BBEdit,366,CollabTools,Wanted
+Geany,362,CollabTools,Wanted
+Spacemacs,208,CollabTools,Wanted
+Visual Studio Code,33023,CollabTools,Admired
+IntelliJ IDEA,10638,CollabTools,Admired
+Visual Studio,10430,CollabTools,Admired
+Notepad++,8713,CollabTools,Admired
+Vim,8664,CollabTools,Admired
+Neovim,5984,CollabTools,Admired
+PyCharm,5605,CollabTools,Admired
+Jupyter Notebook/JupyterLab,4706,CollabTools,Admired
+Android Studio,4672,CollabTools,Admired
+Sublime Text,3478,CollabTools,Admired
+Nano,3223,CollabTools,Admired
+WebStorm,2833,CollabTools,Admired
+Xcode,2680,CollabTools,Admired
+Rider,2435,CollabTools,Admired
+PhpStorm,2164,CollabTools,Admired
+DataGrip,2153,CollabTools,Admired
+IPython,1892,CollabTools,Admired
+VSCodium,1837,CollabTools,Admired
+Emacs,1647,CollabTools,Admired
+Eclipse,1642,CollabTools,Admired
+CLion,1548,CollabTools,Admired
+Goland,1312,CollabTools,Admired
+RStudio,790,CollabTools,Admired
+Kate,688,CollabTools,Admired
+Helix,672,CollabTools,Admired
+Qt Creator,648,CollabTools,Admired
+Fleet,426,CollabTools,Admired
+Netbeans,421,CollabTools,Admired
+RubyMine,400,CollabTools,Admired
+"Rad Studio (Delphi, C++ Builder)",361,CollabTools,Admired
+Spyder,353,CollabTools,Admired
+BBEdit,302,CollabTools,Admired
+Geany,294,CollabTools,Admired
+Code::Blocks,265,CollabTools,Admired
+Spacemacs,93,CollabTools,Admired

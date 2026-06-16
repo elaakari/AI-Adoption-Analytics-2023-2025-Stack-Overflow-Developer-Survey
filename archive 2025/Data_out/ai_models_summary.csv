@@ -1,0 +1,43 @@
+﻿Model,Count,Type
+OpenAI,19140,Used
+Gemini,10044,Used
+Claude,7063,Used
+DeepSeek,6211,Used
+DALL-E,4395,Used
+Llama,2941,Used
+Grok,1839,Used
+Mistral,1712,Used
+Perplexity,1250,Used
+Qwen,864,Used
+Phi-4,833,Used
+Titan,283,Used
+Command A,139,Used
+Reka,57,Used
+OpenAI,12541,Wanted
+Gemini,7535,Wanted
+Claude,5428,Wanted
+DeepSeek,4582,Wanted
+DALL-E,3031,Wanted
+Llama,2004,Wanted
+Grok,1429,Wanted
+Mistral,1288,Wanted
+Perplexity,1012,Wanted
+Qwen,669,Wanted
+Phi-4,629,Wanted
+Titan,312,Wanted
+Command A,155,Wanted
+Reka,131,Wanted
+OpenAI,11850,Admired
+Gemini,6045,Admired
+Claude,4767,Admired
+DeepSeek,3191,Admired
+DALL-E,2610,Admired
+Llama,1419,Admired
+Grok,955,Admired
+Mistral,849,Admired
+Perplexity,685,Admired
+Qwen,465,Admired
+Phi-4,356,Admired
+Titan,121,Admired
+Command A,58,Admired
+Reka,35,Admired
