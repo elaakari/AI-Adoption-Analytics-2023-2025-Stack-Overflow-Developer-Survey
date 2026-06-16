@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#fichier csv volumineux
+archive 2023/Data_in/*.csv
+archive 2024/Data_in/*.csv
+archive 2025/Data_in/*.csv
